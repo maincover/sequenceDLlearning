@@ -1,7 +1,9 @@
-# sequenceDLlearning
-Sequence DL method
+# sequence DL method
+
 /NGS201811_Censored(updated).csv big dataset file containing 171427 rows 33 columns
+
 /NGS201708_Censored(updated).csv small dataset file containing 17938 rows and 33 columns
+
 /1dconv_haotian_keras-big-dataset-duplicate-random.ipynb
 1D convolutional neural network running on big dataset
 
